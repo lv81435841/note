@@ -82,3 +82,9 @@ select d.name ,d.id ,(select count(*) from emp e where e.dept_id=d.id) as "人�
 
 ![image-20240306184123406](C:\Users\小凡\AppData\Roaming\Typora\typora-user-images\image-20240306184123406.png)
 
+
+
+
+
+push to main
+

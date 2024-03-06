@@ -86,5 +86,28 @@ select d.name ,d.id ,(select count(*) from emp e where e.dept_id=d.id) as "人�
 
 
 
-push to main
+git pull origin main --allow-unrelated-histories
 
+https://blog.csdn.net/SweetoRm/article/details/134137053
+
+![image-20240306222837889](C:\Users\小凡\AppData\Roaming\Typora\typora-user-images\image-20240306222837889.png)
+
+![image-20240306224418701](assets/image-20240306224418701.png)
+
+![image-20240306224619423](assets/image-20240306224619423.png)
+
+![image-20240306224633127](assets/image-20240306224633127.png)
+
+![image-20240306224833717](assets/image-20240306224833717.png)
+
+![image-20240306231237629](assets/image-20240306231237629.png)
+
+ 
+
+![image-20240306231642313](assets/image-20240306231642313.png)
+
+![image-20240306232011829](assets/image-20240306232011829.png)
+
+![image-20240306232304440](assets/image-20240306232304440.png)
+
+上溢操作

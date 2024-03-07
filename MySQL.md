@@ -1,5 +1,11 @@
 MySQL
 
+多对多 中间表
+
+一对多 多的外键
+
+
+
 多表查询 内连接 外连接 
 
 ![image-20240306184847055](C:\Users\小凡\AppData\Roaming\Typora\typora-user-images\image-20240306184847055.png)
@@ -123,3 +129,87 @@ https://blog.csdn.net/SweetoRm/article/details/134137053
 ![image-20240306233311100](assets/image-20240306233311100.png)
 
 ![image-20240306233644000](assets/image-20240306233644000.png)
+
+![image-20240307112520532](assets/image-20240307112520532.png)
+
+![image-20240307112620341](assets/image-20240307112620341.png)
+
+![image-20240307112836660](assets/image-20240307112836660.png)
+
+![image-20240307112948617](assets/image-20240307112948617.png)
+
+![image-20240307113549227](assets/image-20240307113549227.png)
+
+![image-20240307115053308](assets/image-20240307115053308.png)
+
+show index from
+
+drip index name **on**
+
+![image-20240307115844635](assets/image-20240307115844635.png)
+
+  
+
+执行频次 7个下划线
+
+慢查询 etc/my.cnf
+
+![image-20240307121322673](assets/image-20240307121322673.png)
+
+ 
+
+![image-20240307122047071](assets/image-20240307122047071.png)
+
+![image-20240307171301254](assets/image-20240307171301254.png)
+
+![image-20240307171347466](assets/image-20240307171347466.png)
+
+![image-20240307172251983](assets/image-20240307172251983.png)
+
+   
+
+![image-20240307173759476](assets/image-20240307173759476.png)
+
+![image-20240307174057119](assets/image-20240307174057119.png)
+
+![image-20240307174350314](assets/image-20240307174350314.png)
+
+![image-20240307174418491](assets/image-20240307174418491.png)
+
+![image-20240307175529423](assets/image-20240307175529423.png)
+
+![image-20240307175540696](assets/image-20240307175540696.png)
+
+![image-20240307180726356](assets/image-20240307180726356.png)
+
+对username，password联合索引，覆盖索引，不会回表查询
+
+![image-20240307180746237](assets/image-20240307180746237.png)
+
+![image-20240307182905254](assets/image-20240307182905254.png)
+
+![image-20240307182928674](assets/image-20240307182928674.png)
+
+![image-20240307183206309](assets/image-20240307183206309.png)
+
+![image-20240307200046794](assets/image-20240307200046794.png)
+
+use index
+
+sql优化 
+
+![image-20240307210301931](assets/image-20240307210301931.png)
+
+ 
+
+![image-20240307212615860](assets/image-20240307212615860.png)
+
+![image-20240307212811898](assets/image-20240307212811898.png)
+
+![image-20240307212825385](assets/image-20240307212825385.png)
+
+![image-20240307214632168](assets/image-20240307214632168.png)
+
+![](assets/image-20240307223656482.png)
+
+group by 也可以用聚合索引
